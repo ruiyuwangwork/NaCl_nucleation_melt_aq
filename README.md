@@ -4,4 +4,5 @@ The zip file contains essential files to run metadynamics simulations of NaCl nu
 
 Software: GROMACS-2022.3, PLUMED-2.8.1
 
+### Paper info
 Preprint: [https://arxiv.org/abs/2309.09284](https://arxiv.org/abs/2309.09284)
